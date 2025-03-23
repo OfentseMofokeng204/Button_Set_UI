@@ -13,5 +13,4 @@ This project focuses on redesigning three to five screens of an existing user in
 ## Preview  
 [🔗 View Prototype](your-figma-link-here)  
 
-## Connect with Me  
-[LinkedIn](your-linkedin-profile) | [GitHub](your-github-repo-link)  
+
